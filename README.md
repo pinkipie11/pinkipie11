@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinkipie11
-- 👀 I’m interested in ... Javascript
-- 🌱 I’m currently learning ... looking forward to /React.js
+- 👀 I’m interested in ... Javascript / React.js
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... stani.simic22@gmail.com
 
