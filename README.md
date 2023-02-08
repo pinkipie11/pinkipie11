@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pinkipie11
 - 👀 I’m interested in ... MERN stack
-- 🌱 I’m currently learning ... Node.js, Express, MongoDB
+- 🌱 I’m currently passionate about learning new things
 - 💞️ I’m looking to collaborate on ... MERN projects
 - 📫 How to reach me ... stani.simic22@gmail.com
