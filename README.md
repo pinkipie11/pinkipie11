@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... MERN stack
 - 🌱 I’m currently passionate about learning new things, currently learning Typescript, .NET Core ... 
 - 💞️ I’m looking to collaborate on ... MERN projects
-- 📫 How to reach me ... stani.simic22@gmail.com
+- 📫 How to reach me ... stanislav.simic01@gmail.com
