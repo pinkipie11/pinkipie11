@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pinkipie11
-- 👀 I’m interested in ... MERN stack, ASP.NET
+- 👀 I’m interested in ... React.js
 - 🌱 I’m currently passionate about learning new things 
-- 💞️ I’m looking to collaborate on ... all kind of projects
+- 💞️ I’m looking to collaborate on ... Javascript/React.js projects
 - 📫 How to reach me ... stanislav.simic01@gmail.com
